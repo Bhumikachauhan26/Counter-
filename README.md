@@ -3,7 +3,7 @@ index.html File
 style.css File
 ![image](https://github.com/Bhumikachauhan26/Counter-/assets/159519180/5929ef15-57e8-44f4-8547-787775c64c38)
 script.js File
-![Uploading image.png…]()
+![image](https://github.com/Bhumikachauhan26/Counter-/assets/159519180/e2adf5c8-96a8-4a9a-8388-f17a4b73e4a1)
 
 Display
 ![image](https://github.com/Bhumikachauhan26/Counter-/assets/159519180/50ce8ee8-03e1-4a78-abf4-3889e8b7c9b4)
